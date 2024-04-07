@@ -665,7 +665,7 @@ body {
 
 @media screen and (min-width: 768px) {
   .portfolio-list-item {
-    width: calc((100% - 72px) / 2);
+    width: calc((100% - 24px) / 2);
   }
   .portfolio-list {
     justify-content: center;
